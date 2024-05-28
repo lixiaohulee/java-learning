@@ -48,4 +48,7 @@ public class Pool {
 
 
     }
+    static void print() {
+        System.out.println("hello world");
+    }
 }
